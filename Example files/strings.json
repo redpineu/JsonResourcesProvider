@@ -1,0 +1,9 @@
+{
+  "addressDetail.billingAddress": "Billing address",
+  "addressDetail.shippingAddress": "Shipping address",
+  "addressDetail.street": "Street",
+  "addressDetail.houseNumber": "House number",
+  "addressDetail.zip": "Zip",
+  "addressDetail.city": "City",
+  "addressDetail.locality": "Locality"
+}

@@ -1,0 +1,9 @@
+{
+  "addressDetail.billingAddress": "Indirizzo fatturazione",
+  "addressDetail.shippingAddress": "Indirizzo spedizione",
+  "addressDetail.street": "Via",
+  "addressDetail.houseNumber": "Numero civico",
+  "addressDetail.zip": "CAP",
+  "addressDetail.city": "Città",
+  "addressDetail.locality": "Frazione"
+}
